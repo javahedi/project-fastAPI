@@ -1,0 +1,1 @@
+heroku run "alembic upgrade head"
